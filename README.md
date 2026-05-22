@@ -3,6 +3,7 @@ This is a simple NLP (Natural Language Processing) project that checks whether a
 The model was trained using the WELFake dataset, which has more than 72,000 news articles.
 
 WELFake dataset from kaggle: [Click link](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/)
+> Note: The WELFake dataset description in kaggle contains an error in the labeling (0 = fake and 1 = real), whereas the correct labeling is (0 = Real and 1 = Fake)
 
 The project uses:
 * text cleaning
